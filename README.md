@@ -2,18 +2,19 @@
 🎮 Una versión modificada del addon [Turtle-Dragonflight](https://github.com/TheLinuxITGuy/Turtle-Dragonflight) para el servidor de **Turtle WoW SA**.
 
 ## 🐉 ¿Que cambia?
-- Corrige el error asociado al activar la opción "All-in-one-bag" del addon original, permitiendo ver todas las bolsas en una sola.
-- Corrige el color de de los bordes de los items en la bolsa, según la rareza.
 - Ajusta la transparencia de los tooltips en modo "Darnkened UI" para una mejor visualización del texto.
+- Agrega una barra de casteo custom para "Steady Shot" para la versión en Español e Inglés.
+- Corrige el color de los bordes de los items en la bolsa, según la rareza.
+- Corrige el error asociado al activar la opción "All-in-one-bag" del addon original, permitiendo ver todas las bolsas en una sola.
 - Corrige el "Auto Dismount" para Tortuga Montada "Lento y constante...".
-- Corrige el casteo de "Aimed Shot" y "Multi-Shot" para la versión en español.
-- Agrega una barra de casteo para "Steady Shot" para la versión en español e inglés.
-- Corrige parcialmente el contador de tiempo restante de los Debuffs del Cazador en el Target.
+- Corrige el casteo de "Aimed Shot" y "Multi-Shot" para la versión en Español.
+- Corrige parcialmente el contador de tiempo restante de los Debuffs en el Target.
+- Corrige parcialmente los nombres de las Habilidades/Hechizos para la versión en Español, probablemente algunas barras de casteo ahora si funcionen.
 - Se mejoran las traducciones al español.
 
 ## 📥 Instalación
 - Abre el launcher "TurtleWoW", y en el apartado de Addons selecciona "Añadir nuevo addon" y pegas el link de este repositorio.
-- También es posible la instalación manual descargando en formato .zip renombrar la carpeta como "Turtle-Dragonflight".
+- También es posible la instalación manual descargando en formato .zip, importante renombrar la carpeta como "Turtle-Dragonflight".
 
 ## 🌟Colaboradores
 Agradecer a las siguientes personas por las modificaciones realizadas:

@@ -38,6 +38,7 @@ module.enable = function(self)
 	
 	-- turtle-wow SA
 	"Lento y constante...",
+	"Aumenta la velocidad según tu habilidad de Montar.",
 	
   }
 
